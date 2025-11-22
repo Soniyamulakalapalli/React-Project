@@ -29,7 +29,7 @@ ________________________________________
 ➕ Create User Form
 ![Create User Screenshot](./src/Screenshots/UserDashboardPageCreationOfNewUser.png)
 
-📱 Mobile Responsive View
+📱 User Form Filter by Name
 ![Mobile View Screenshot](./src/Screenshots/UserDashboardPageFilterByName.png)
 
  
