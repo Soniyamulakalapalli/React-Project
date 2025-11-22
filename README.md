@@ -20,14 +20,18 @@ ________________________________________
 •	Uses CSS Grid & Flexbox
 ________________________________________
 📸 Screenshots
-📌 Put your screenshots in a folder named screenshots/.
 🖥️ Dashboard Page
- 
+![Dashboard Screenshot](./src/Screenshots/UserDashboardPage.png)
+
 👤 User Details Page
- 
+![User Details Screenshot](./src/Screenshots/UserDetails.png)
+
 ➕ Create User Form
- 
+![Create User Screenshot](./src/Screenshots/UserDashboardPageCreationOfNewUser.png)
+
 📱 Mobile Responsive View
+![Mobile View Screenshot](./src/Screenshots/UserDashboardPageFilterByName.png)
+
  
 ________________________________________
 🛠️ Tech Stack
